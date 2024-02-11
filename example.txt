@@ -1,2 +1,2 @@
 This is some content in the main branch, different from feature1 branch.
-This is some content in the feature1 branch.
+This is some content in the feature1 (correct).
